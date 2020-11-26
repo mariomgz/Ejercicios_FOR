@@ -1,0 +1,7 @@
+C:\Users\Beto\source\repos\Ejercicios_FOR\Ejercicios_FOR\bin\Debug\Ejercicios_FOR.exe.config
+C:\Users\Beto\source\repos\Ejercicios_FOR\Ejercicios_FOR\bin\Debug\Ejercicios_FOR.exe
+C:\Users\Beto\source\repos\Ejercicios_FOR\Ejercicios_FOR\bin\Debug\Ejercicios_FOR.pdb
+C:\Users\Beto\source\repos\Ejercicios_FOR\Ejercicios_FOR\obj\Debug\Ejercicios_FOR.csprojAssemblyReference.cache
+C:\Users\Beto\source\repos\Ejercicios_FOR\Ejercicios_FOR\obj\Debug\Ejercicios_FOR.csproj.CoreCompileInputs.cache
+C:\Users\Beto\source\repos\Ejercicios_FOR\Ejercicios_FOR\obj\Debug\Ejercicios_FOR.exe
+C:\Users\Beto\source\repos\Ejercicios_FOR\Ejercicios_FOR\obj\Debug\Ejercicios_FOR.pdb
